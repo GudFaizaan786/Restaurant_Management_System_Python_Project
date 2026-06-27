@@ -1,0 +1,454 @@
+{
+    "restaurant_name": "Gud-Life restaurant",
+    "location": " Jodhpur, Rajasthan, India",
+    "menu": {
+        "starters": [
+            {
+                "name": "Paneer Tikka",
+                "type": "veg",
+                "price": {
+                    "half": 120,
+                    "full": 230
+                }
+            },
+            {
+                "name": "Chicken Tikka",
+                "type": "non-veg",
+                "price": {
+                    "half": 160,
+                    "full": 260
+                }
+            },
+            {
+                "name": "Hara Bhara Kabab",
+                "type": "veg",
+                "price": {
+                    "half": 120,
+                    "full": 200
+                }
+            },
+            {
+                "name": "Mutton Seekh Kabab",
+                "type": "non-veg",
+                "price": {
+                    "half": 180,
+                    "full": 300
+                }
+            },
+            {
+                "name": "Veg Spring Roll",
+                "type": "veg",
+                "price": {
+                    "half": 110,
+                    "full": 180
+                }
+            },
+            {
+                "name": "Chicken 65",
+                "type": "non-veg",
+                "price": {
+                    "half": 170,
+                    "full": 280
+                }
+            },
+            {
+                "name": "Corn & Cheese Balls",
+                "type": "veg",
+                "price": {
+                    "half": 115,
+                    "full": 190
+                }
+            },
+            {
+                "name": "Veg Cutlet",
+                "type": "non-veg",
+                "price": {
+                    "half": 180,
+                    "full": 300
+                }
+            },
+            {
+                "name": "Paneer Pakora",
+                "type": "veg",
+                "price": {
+                    "half": 125,
+                    "full": 210
+                }
+            },
+            {
+                "name": "Chilli Chicken",
+                "type": "non-veg",
+                "price": {
+                    "half": 175,
+                    "full": 290
+                }
+            },
+            {
+                "name": "Aloo Tikki",
+                "type": "veg",
+                "price": {
+                    "half": 90,
+                    "full": 160
+                }
+            },
+            {
+                "name": "Crispy Corn",
+                "type": "veg",
+                "price": {
+                    "half": 120,
+                    "full": 200
+                }
+            },
+            {
+                "name": "Prawns Fry",
+                "type": "non-veg",
+                "price": {
+                    "half": 260,
+                    "full": 450
+                }
+            },
+            {
+                "name": "Prawns Tikka",
+                "type": "non-veg",
+                "price": {
+                    "half": 280,
+                    "full": 480
+                }
+            },
+            {
+                "name": "Corn Puffs",
+                "type": "veg",
+                "price": {
+                    "half": 10,
+                    "full": 20
+                }
+            }
+        ],
+        "main_course": [
+            {
+                "name": "Butter Paneer Masala",
+                "type": "veg",
+                "price": {
+                    "half": 170,
+                    "full": 280
+                }
+            },
+            {
+                "name": "Butter Chicken",
+                "type": "non-veg",
+                "price": {
+                    "half": 190,
+                    "full": 320
+                }
+            },
+            {
+                "name": "Palak Paneer",
+                "type": "veg",
+                "price": {
+                    "half": 155,
+                    "full": 260
+                }
+            },
+            {
+                "name": "Chicken Korma",
+                "type": "non-veg",
+                "price": {
+                    "half": 205,
+                    "full": 340
+                }
+            },
+            {
+                "name": "Veg Kolhapuri",
+                "type": "veg",
+                "price": {
+                    "half": 150,
+                    "full": 250
+                }
+            },
+            {
+                "name": "Paneer Lababdar",
+                "type": "veg",
+                "price": {
+                    "half": 180,
+                    "full": 300
+                }
+            },
+            {
+                "name": "Dal Makhani",
+                "type": "veg",
+                "price": {
+                    "half": 130,
+                    "full": 220
+                }
+            },
+            {
+                "name": "Goan Fish Curry",
+                "type": "non-veg",
+                "price": {
+                    "half": 230,
+                    "full": 380
+                }
+            },
+            {
+                "name": "Mix Veg",
+                "type": "veg",
+                "price": {
+                    "half": 110,
+                    "full": 200
+                }
+            },
+            {
+                "name": "Malai Kofta",
+                "type": "veg",
+                "price": {
+                    "half": 160,
+                    "full": 270
+                }
+            },
+            {
+                "name": "Egg Curry",
+                "type": "non-veg",
+                "price": {
+                    "half": 70,
+                    "full": 120
+                }
+            },
+            {
+                "name": "Chicken Biryani",
+                "type": "non-veg",
+                "price": {
+                    "half": 180,
+                    "full": 300
+                }
+            },
+            {
+                "name": "Aloo Jeera",
+                "type": "veg",
+                "price": {
+                    "half": 110,
+                    "full": 180
+                }
+            },
+            {
+                "name": "Chicken Handi",
+                "type": "non-veg",
+                "price": {
+                    "half": 210,
+                    "full": 360
+                }
+            },
+            {
+                "name": "Veg Biryani",
+                "type": "veg",
+                "price": {
+                    "half": 150,
+                    "full": 290
+                }
+            },
+            {
+                "name": "Dal Fry",
+                "type": "veg",
+                "price": {
+                    "half": 180,
+                    "full": 250
+                }
+            }
+        ],
+        "breads": [
+            {
+                "name": "Butter Naan",
+                "price": 50
+            },
+            {
+                "name": "Tandoori Roti",
+                "price": 30
+            },
+            {
+                "name": "Garlic Naan",
+                "price": 60
+            },
+            {
+                "name": "Lachha Paratha",
+                "price": 70
+            },
+            {
+                "name": "Roomali Roti",
+                "price": 40
+            },
+            {
+                "name": "Kulcha",
+                "price": 60
+            },
+            {
+                "name": "Paneer Stuffed Naan",
+                "price": 90
+            },
+            {
+                "name": "Plain Roti",
+                "price": 25
+            },
+            {
+                "name": "Aloo Paratha",
+                "price": 100
+            }
+        ],
+        "drinks": [
+            {
+                "name": "Cold Drink",
+                "price": {
+                    "half": 25,
+                    "full": 40
+                }
+            },
+            {
+                "name": "Masala Chai",
+                "price": {
+                    "half": 35,
+                    "full": 60
+                }
+            },
+            {
+                "name": "Fresh Lime Soda",
+                "price": {
+                    "half": 30,
+                    "full": 50
+                }
+            },
+            {
+                "name": "Water",
+                "price": {
+                    "half": 20,
+                    "full": 40
+                }
+            },
+            {
+                "name": "Buttermilk",
+                "price": {
+                    "half": 20,
+                    "full": 35
+                }
+            },
+            {
+                "name": "Mango Lassi",
+                "price": {
+                    "half": 35,
+                    "full": 60
+                }
+            },
+            {
+                "name": "Sweet Lassi",
+                "price": {
+                    "half": 30,
+                    "full": 50
+                }
+            },
+            {
+                "name": "Coffee",
+                "price": {
+                    "half": 25,
+                    "full": 40
+                }
+            },
+            {
+                "name": "Green Tea",
+                "price": {
+                    "half": 20,
+                    "full": 30
+                }
+            },
+            {
+                "name": "Mixed Fruit Juice",
+                "price": {
+                    "half": 50,
+                    "full": 90
+                }
+            },
+            {
+                "name": "Chai",
+                "price": {
+                    "half": 30,
+                    "full": 50
+                }
+            }
+        ],
+        "desserts": [
+            {
+                "name": "Gulab Jamun",
+                "price": {
+                    "half": 60,
+                    "full": 100
+                }
+            },
+            {
+                "name": "Ice Cream",
+                "price": {
+                    "half": 70,
+                    "full": 120
+                }
+            },
+            {
+                "name": "Rasmalai",
+                "price": {
+                    "half": 60,
+                    "full": 100
+                }
+            },
+            {
+                "name": "Kheer",
+                "price": {
+                    "half": 50,
+                    "full": 80
+                }
+            },
+            {
+                "name": "Jalebi",
+                "price": {
+                    "half": 40,
+                    "full": 70
+                }
+            },
+            {
+                "name": "Chocolate Brownie",
+                "price": {
+                    "half": 90,
+                    "full": 150
+                }
+            },
+            {
+                "name": "Rabri",
+                "price": {
+                    "half": 65,
+                    "full": 110
+                }
+            },
+            {
+                "name": "Falooda",
+                "price": {
+                    "half": 80,
+                    "full": 130
+                }
+            },
+            {
+                "name": "Strawberry Sundae",
+                "price": {
+                    "half": 85,
+                    "full": 140
+                }
+            },
+            {
+                "name": "Mango Pudding",
+                "price": {
+                    "half": 70,
+                    "full": 120
+                }
+            },
+            {
+                "name": "Kaju Katli",
+                "price": {
+                    "half": 180,
+                    "full": 360
+                }
+            }
+        ]
+    }
+}

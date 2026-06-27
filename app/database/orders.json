@@ -1,0 +1,60 @@
+{
+    "orders": [
+        {
+            "order_id": 1,
+            "reservation_id": "A72F2C",
+            "customer_name": "Sher Mohammed",
+            "table_id": 5,
+            "table_name": "T5",
+            "order_datetime": "2026-06-27 02:08 PM",
+            "order_status": "paid",
+            "items": [
+                {
+                    "item_name": "Aloo Tikki",
+                    "category": "starters",
+                    "size": "half",
+                    "quantity": 4
+                },
+                {
+                    "item_name": "Palak Paneer",
+                    "category": "main_course",
+                    "size": "full",
+                    "quantity": 1
+                },
+                {
+                    "item_name": "Dal Fry",
+                    "category": "main_course",
+                    "size": "full",
+                    "quantity": 1
+                },
+                {
+                    "item_name": "Plain Roti",
+                    "category": "breads",
+                    "size": "none",
+                    "quantity": 8
+                },
+                {
+                    "item_name": "Aloo Paratha",
+                    "category": "breads",
+                    "size": "none",
+                    "quantity": 2
+                },
+                {
+                    "item_name": "Chai",
+                    "category": "drinks",
+                    "size": "full",
+                    "quantity": 4
+                },
+                {
+                    "item_name": "Ice Cream",
+                    "category": "desserts",
+                    "size": "half",
+                    "quantity": 2
+                }
+            ],
+            "payment_method": "upi",
+            "paid_at": "2026-06-27 14:16:04",
+            "total_amount": 1218.0
+        }
+    ]
+}

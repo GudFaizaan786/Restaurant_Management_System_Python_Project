@@ -1,5 +1,5 @@
 from app.domain.read_write import ReadWrite
-from app.module.json_file import Paths
+from app.model.json_file import Paths
 
 
 class Food_menu:
