@@ -1,0 +1,86 @@
+[
+    {
+        "table_id": 1,
+        "table_name": "T1",
+        "capacity": 2,
+        "status": "free"
+    },
+    {
+        "table_id": 2,
+        "table_name": "T2",
+        "capacity": 2,
+        "status": "free"
+    },
+    {
+        "table_id": 3,
+        "table_name": "T3",
+        "capacity": 2,
+        "status": "free"
+    },
+    {
+        "table_id": 4,
+        "table_name": "T4",
+        "capacity": 2,
+        "status": "free"
+    },
+    {
+        "table_id": 5,
+        "table_name": "T5",
+        "capacity": 4,
+        "status": "free"
+    },
+    {
+        "table_id": 6,
+        "table_name": "T6",
+        "capacity": 4,
+        "status": "free"
+    },
+    {
+        "table_id": 7,
+        "table_name": "T7",
+        "capacity": 4,
+        "status": "free"
+    },
+    {
+        "table_id": 8,
+        "table_name": "T8",
+        "capacity": 4,
+        "status": "free"
+    },
+    {
+        "table_id": 10,
+        "table_name": "T10",
+        "capacity": 6,
+        "status": "free"
+    },
+    {
+        "table_id": 11,
+        "table_name": "T11",
+        "capacity": 8,
+        "status": "free"
+    },
+    {
+        "table_id": 12,
+        "table_name": "T12",
+        "capacity": 8,
+        "status": "free"
+    },
+    {
+        "table_id": 13,
+        "table_name": "T13",
+        "capacity": 6,
+        "status": "free"
+    },
+    {
+        "table_id": 14,
+        "table_name": "T14",
+        "capacity": 4,
+        "status": "free"
+    },
+    {
+        "table_id": 15,
+        "table_name": "T15",
+        "capacity": 8,
+        "status": "free"
+    }
+]

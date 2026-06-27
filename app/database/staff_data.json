@@ -1,0 +1,38 @@
+[
+    {
+        "id": "90aed15",
+        "name": "Faizaan",
+        "email": "faizaan11@gmail.com",
+        "contact": 9828517711,
+        "experience": 2,
+        "password": "faizaan@11",
+        "role": "Admin"
+    },
+    {
+        "id": "da3b935",
+        "name": "Ashok",
+        "email": "ashok12@gmail.com",
+        "contact": 9812345678,
+        "experience": 2,
+        "password": "ashok@12",
+        "role": "Staff"
+    },
+    {
+        "id": "da3b935",
+        "name": "Taniya",
+        "email": "taniya13@gmail.com",
+        "contact": 9823456789,
+        "experience": 2,
+        "password": "taniya@13",
+        "role": "Staff"
+    },
+    {
+        "id": "9b48d6d",
+        "name": "hamza",
+        "email": "hamza34@gmail.com",
+        "contact": 9823456987,
+        "experience": 1,
+        "password": "hamza@123",
+        "role": "Staff"
+    }
+]
