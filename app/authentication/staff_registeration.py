@@ -1,8 +1,8 @@
 import uuid
 from app.validation.all_validation import Validation
-from app.module.user import User_model
-from app.module.error_module import Module
-from app.module.role_model import Role
+from app.model.user import User_model
+from app.model.error_model import model
+from app.model.role_model import Role
 
 
 class Staff:
@@ -23,10 +23,10 @@ class Staff:
 
         stud.id         = uuid.uuid4().hex[:7]
         stud.name       = Validation.name()
-        stud.email      = Validation.email(Module.register)
-        stud.contact    = Validation.contact(stud.email, Module.register)
-        stud.experience = Validation.experience(stud.email, Module.register)
-        stud.password   = Validation.password(stud.email, Module.register)
+        stud.email      = Validation.email(model.register)
+        stud.contact    = Validation.contact(stud.email, model.register)
+        stud.experience = Validation.experience(stud.email, model.register)
+        stud.password   = Validation.password(stud.email, model.register)
         stud.role       = Role.staff
 
         print("Registration successful.")

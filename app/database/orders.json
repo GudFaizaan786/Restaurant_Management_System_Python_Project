@@ -55,6 +55,45 @@
             "payment_method": "upi",
             "paid_at": "2026-06-27 14:16:04",
             "total_amount": 1218.0
+        },
+        {
+            "order_id": 2,
+            "reservation_id": "A19AB5",
+            "customer_name": "rajesh sharma",
+            "customer_email": "rajesh@gmail.com",
+            "table_id": 7,
+            "table_name": "T7",
+            "order_datetime": "2026-06-30 02:26 PM",
+            "order_status": "paid",
+            "items": [
+                {
+                    "item_name": "Chicken 65",
+                    "category": "starters",
+                    "size": "full",
+                    "quantity": 1
+                },
+                {
+                    "item_name": "Plain Roti",
+                    "category": "breads",
+                    "size": "none",
+                    "quantity": 6
+                },
+                {
+                    "item_name": "Chai",
+                    "category": "drinks",
+                    "size": "half",
+                    "quantity": 4
+                },
+                {
+                    "item_name": "Strawberry Sundae",
+                    "category": "desserts",
+                    "size": "full",
+                    "quantity": 2
+                }
+            ],
+            "payment_method": "upi",
+            "paid_at": "2026-06-30 14:42:01",
+            "total_amount": 871.5
         }
     ]
 }

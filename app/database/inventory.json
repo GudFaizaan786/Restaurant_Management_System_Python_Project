@@ -28,7 +28,7 @@
         {
             "name": "Chicken 65",
             "category": "starters",
-            "available_half_qty": 200
+            "available_half_qty": 198
         },
         {
             "name": "Corn & Cheese Balls",
@@ -148,7 +148,7 @@
         {
             "name": "Plain Roti",
             "category": "breads",
-            "available_qty": 492
+            "available_qty": 486
         },
         {
             "name": "Tandoori Roti",
@@ -243,7 +243,7 @@
         {
             "name": "Chai",
             "category": "drinks",
-            "available_half_qty": 292
+            "available_half_qty": 288
         },
         {
             "name": "Kaju Katli",
@@ -288,7 +288,7 @@
         {
             "name": "Strawberry Sundae",
             "category": "desserts",
-            "available_half_qty": 200
+            "available_half_qty": 196
         },
         {
             "name": "Mango Pudding",
