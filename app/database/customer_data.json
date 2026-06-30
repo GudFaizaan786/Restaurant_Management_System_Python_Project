@@ -1,0 +1,18 @@
+[
+    {
+        "id": "194d798",
+        "name": "xyz",
+        "email": "xyz@gmail.com",
+        "contact": 1133446688,
+        "password": "xyz@1234",
+        "role": "Customer"
+    },
+    {
+        "id": "7c54548",
+        "name": "rajesh sharma",
+        "email": "rajesh@gmail.com",
+        "contact": 2244668800,
+        "password": "rajesh@123",
+        "role": "Customer"
+    }
+]

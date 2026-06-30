@@ -9,7 +9,7 @@ class Validation:
 
     @staticmethod
     def menu_choice():
-        """Accepts only a positive integer. Used for all menu selections."""
+        
         while True:
             choice = input("Please enter your choice: ").strip()
             if choice.isdigit():
@@ -29,7 +29,7 @@ class Validation:
 
     @staticmethod
     def name():
-        """Accepts a full name — letters, spaces, hyphens, apostrophes only. Length 2 to 50."""
+        
         while True:
             name = input("Please enter your full name: ").strip()
             if re.fullmatch(Pattern.name_pattern, name) and 2 <= len(name) <= 50:

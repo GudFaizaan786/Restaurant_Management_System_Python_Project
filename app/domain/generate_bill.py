@@ -102,7 +102,7 @@ class GenerateBill:
         tax         = subtotal * 0.05
         grand_total = subtotal + tax
 
-        restaurant = menu_data.get("restaurant_name", "FlavorPoint")
+        restaurant = menu_data.get("restaurant_name", "Gud-Life Restaurant")
         location   = menu_data.get("location", "")
 
         print("\n" + "=" * 60)

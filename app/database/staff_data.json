@@ -34,5 +34,32 @@
         "experience": 1,
         "password": "hamza@123",
         "role": "Staff"
+    },
+    {
+        "id": "799559a",
+        "name": "rohail",
+        "email": "rohail14@gmail.com",
+        "contact": 8967452310,
+        "experience": 1,
+        "password": "rohail@14",
+        "role": "Staff"
+    },
+    {
+        "id": "2e53428",
+        "name": "danish",
+        "email": "danish15@gmail.com",
+        "contact": 5674839201,
+        "experience": 2,
+        "password": "danish@15",
+        "role": "Staff"
+    },
+    {
+        "id": "cef5433",
+        "name": "abcd",
+        "email": "abcd@gmail.com",
+        "contact": 9911227733,
+        "experience": 2,
+        "password": "abcd@1234",
+        "role": "Staff"
     }
 ]
